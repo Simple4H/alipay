@@ -21,7 +21,4 @@ public class AlipayTest {
                 DefaultAlipayClient("https://openapi.alipaydev.com/gateway.do","2016081500253860","请复制上一步中生成的密钥中的商户应用私钥","json","utf-8",
                 "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnoSvDFYSoxA90STnKcsdz0VGtXW9qs9wYgKMhi0yKQtGgvFpB+YBz2iTZqXl/IV5htj9Ec4RFFiCPOPy18ACGuMgNJnF8obxTqx98pnRcgakvUB45si2HbZWdGF9kYntfS7InQiRo3G4zo4oo5JWJ0U+7n++12q8lWmWqDA1Pq4pJK7VXSIMKTlCP0l4QdyZgvemuLYx2bgcZogKjugv5mmCKvTpb7KV/E2tmhoLDUuyH4LNVa2oqXQ2owj3zW798EkXTE/NvoSncIGp9KK4QgfUx3HMMRGaq0lPsK/0jhpX5XAocQ1kIdCWNLh2u8kM/8NH4jB2wSYSM2k6grJopQIDAQAB","RSA2" );
     }
-
-    
-
 }
